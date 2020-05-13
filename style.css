@@ -33,7 +33,7 @@ p {
 }
 .section {
     background-color:#ccc;
-    border-radius:15px;
+    -webkit-border-radius:15px;
 }
 
 .bigcenter {text-align:center; font-size:50px;
