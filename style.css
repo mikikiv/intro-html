@@ -1,0 +1,49 @@
+body {
+    color: green;
+    font-family: sans-serif;
+    background-color:white; 
+}
+div p {
+    margin: 0 100px;
+    padding: 0 20px;
+    white-space:pre-wrap;
+}
+h1 {
+    text-align:center;
+    font-size:18;
+    color:#444444;
+}
+h1 span{
+    border: 4px dashed green;
+    padding: 5px;
+}
+p {
+    background-color:white; 
+    color:green; 
+    font-family:sans-serif; 
+
+}
+#header {
+    background-image:url(https://www.amazondistanceproject.org/wp-content/uploads/2018/12/MG_5960.jpg); 
+    background-size:100%; 
+    width:100%; 
+    height:250px; 
+    background-attachment:fixed;
+}
+.section {
+    background-color:#ccc;
+    border-radius:15px;
+}
+
+.bigcenter {text-align:center; font-size:50px;
+
+}
+.logo {
+    width:55%; 
+    position:relative; 
+    top:25px; 
+    left:80px;
+    
+
+}
+
