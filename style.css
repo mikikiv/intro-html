@@ -27,7 +27,7 @@ p {
 #header {
     background-image:url(https://www.amazondistanceproject.org/wp-content/uploads/2018/12/MG_5960.jpg); 
     background-size:100%; 
-    width:100%; 
+    width:105%; 
     height:250px; 
     background-attachment:fixed;
 }
@@ -41,7 +41,7 @@ p {
 }
 .logo {
     max-width:1000px; 
-	height:auto
+	max-height:200px;
     position:relative; 
     top:25px; 
     left:80px;
