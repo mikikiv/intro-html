@@ -40,7 +40,7 @@ p {
 
 }
 .logo {
-    max-width:1000px; 
+    width:55%; 
 	max-height:200px;
     position:relative; 
     top:25px; 
